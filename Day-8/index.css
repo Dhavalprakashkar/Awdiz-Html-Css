@@ -1,0 +1,28 @@
+p{
+    color:red;
+}
+
+p.border{
+    border:7px solid blueviolet;
+}
+p.border-green{
+    border:7px dotted orange;
+}
+
+.backimage{
+    background-image: url("./Normal\ Divinity\ Desktop\ Pc\ And\ Mac\ Wallpaper.jpg");
+    background-repeat: no-repeat;
+   
+}
+div.radius{
+    border:2px solid red;
+    border-radius:40px
+}
+div.radius1{
+    height:50px;
+    width:50px;
+
+    border:2px solid black;
+    border-radius:50%;
+
+}
